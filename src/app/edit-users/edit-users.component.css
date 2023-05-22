@@ -1,0 +1,23 @@
+.btn:hover{
+    background-color: black;
+}
+.marine{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    background-color: beige;
+    border:solid 4px rgb(228, 84, 0);
+    border-radius: 10px;
+    color:black;
+    padding:10px 20px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    margin:6px 7px;
+    cursor:pointer;
+    
+}

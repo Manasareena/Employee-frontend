@@ -1,0 +1,12 @@
+.navbar .navbar-brand{
+    color:black;
+    font-weight:bold;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color:black
+}
+
+.nav.navbar.edit{
+    margin-right:10px;
+}
